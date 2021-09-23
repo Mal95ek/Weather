@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223469508189",
+    "project_id": "waetherapp-d7753",
+    "storage_bucket": "waetherapp-d7753.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223469508189:android:d02d2db46b06f7734e5fb4",
+        "android_client_info": {
+          "package_name": "com.example.flutterapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223469508189-fdg1pvfr9hcsg025nanloj3tb1bst349.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterapi",
+            "certificate_hash": "5f080f36dfe9f88cb3f05ba21acec35b91b3edf7"
+          }
+        },
+        {
+          "client_id": "223469508189-k1ot2kr51e2d7j5p1reccqskar6itl35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTRRFmuaBpl0li3OX7T23KEOvnSJ18Kvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223469508189-k1ot2kr51e2d7j5p1reccqskar6itl35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
